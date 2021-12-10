@@ -1,16 +1,5 @@
 # phone_call
 
-A new Flutter project.
+Telefonda raqam terib qo'ng'iroq qilish ilovasi
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_2021-12-10_23-13-47](https://user-images.githubusercontent.com/52131726/145621908-8551855e-d172-4d9f-a3c2-36f7121429a5.jpg)
